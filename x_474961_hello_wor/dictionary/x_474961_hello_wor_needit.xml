@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="NeedIt" max_length="40" name="x_474961_hello_wor_needit" type="collection">
+        <element choice="2" display="true" label="Resolution date" max_length="64" name="resolution_date" read_only="true" type="glide_date">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="human resources" label="Request type" mandatory="true" max_length="40" name="u_choice_3" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Human resources" sequence="0" value="human resources"/>
+                <element inactive_on_update="false" label="Account resources" sequence="1" value="account resources"/>
+                <element inactive_on_update="false" label="System resources" sequence="2" value="system resources"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="When needed" mandatory="true" max_length="40" name="u_glide_date_1" type="glide_date"/>
+        <element attributes="encode_utf8=false" label="Requested for" mandatory="true" max_length="32" name="u_reference_2" reference="sys_user" type="reference"/>
+    </element>
+</database>

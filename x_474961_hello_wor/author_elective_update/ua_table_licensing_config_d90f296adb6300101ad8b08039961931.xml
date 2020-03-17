@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="DELETE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_474961_hello_wor_testtable</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-17 13:08:04</sys_created_on>
+        <sys_id>d90f296adb6300101ad8b08039961931</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_474961_hello_wor_testtable</sys_name>
+        <sys_package display_value="Hello World, it's Ievgen" source="x_474961_hello_wor">fd70dd66db2300101ad8b08039961958</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World, it's Ievgen">fd70dd66db2300101ad8b08039961958</sys_scope>
+        <sys_update_name>ua_table_licensing_config_d90f296adb6300101ad8b08039961931</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-17 13:08:04</sys_updated_on>
+    </ua_table_licensing_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hello World, it's Ievgen">fd70dd66db2300101ad8b08039961958</application>
+        <file_path/>
+        <instance_id>38369dabdb1b3f008aea21c405961995</instance_id>
+        <instance_name>dev92128</instance_name>
+        <name>ua_table_licensing_config_d90f296adb6300101ad8b08039961931</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_474961_hello_wor_testtable</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-17 13:08:04</sys_created_on><sys_id>d90f296adb6300101ad8b08039961931</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_474961_hello_wor_testtable</sys_name><sys_package display_value="Hello World, it's Ievgen" source="x_474961_hello_wor">fd70dd66db2300101ad8b08039961958</sys_package><sys_policy/><sys_scope display_value="Hello World, it's Ievgen">fd70dd66db2300101ad8b08039961958</sys_scope><sys_update_name>ua_table_licensing_config_d90f296adb6300101ad8b08039961931</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-17 13:08:04</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+        <payload_hash>980456170</payload_hash>
+        <record_name>x_474961_hello_wor_testtable</record_name>
+        <reverted_from/>
+        <source>196769eedb2300101ad8b08039961985</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-17 13:08:04</sys_created_on>
+        <sys_id>5d0f296adb6300101ad8b08039961933</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170e89bb9be0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-17 13:08:04</sys_updated_on>
+        <type>Table Subscription Configuration</type>
+        <update_guid>950f296af8630010440b9d6417c86733</update_guid>
+        <update_guid_history>950f296af8630010440b9d6417c86733:980456170</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-17 14:02:38</sys_created_on>
+        <sys_db_object display_value="" name="ua_table_licensing_config">ua_table_licensing_config</sys_db_object>
+        <sys_id>1fba2a3c4f6840bcb6fa41ca72ce0731</sys_id>
+        <sys_metadata>d90f296adb6300101ad8b08039961931</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_474961_hello_wor_testtable</sys_name>
+        <sys_package display_value="Hello World, it's Ievgen" source="x_474961_hello_wor">fd70dd66db2300101ad8b08039961958</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hello World, it's Ievgen">fd70dd66db2300101ad8b08039961958</sys_scope>
+        <sys_scope_delete display_value="">7664100aa8bd43509538b3eac9816b24</sys_scope_delete>
+        <sys_update_name>ua_table_licensing_config_d90f296adb6300101ad8b08039961931</sys_update_name>
+        <sys_update_version display_value="ua_table_licensing_config_d90f296adb6300101ad8b08039961931">5d0f296adb6300101ad8b08039961933</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-17 14:02:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
